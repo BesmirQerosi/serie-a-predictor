@@ -60,7 +60,7 @@ serie-a-predictor/
 ├── SerieA_Predictor.ipynb   # Main Jupyter Notebook containing all logic
 ├── README.md                # Project documentation
 └── requirements.txt         # List of dependencies
-
+```
 ---
 
 ## 📊 Methodology
