@@ -55,10 +55,11 @@ It transforms raw match data into actionable insights using metrics like **Attac
 ---
 
 📂 **Project Structure**
+```
 serie-a-predictor/
-├── 📓 SerieA_Predictor.ipynb # Main Jupyter Notebook containing all logic
-├── 📄 README.md # Project documentation
-├── 📦 requirements.txt # List of dependencies
+├── SerieA_Predictor.ipynb   # Main Jupyter Notebook containing all logic
+├── README.md                # Project documentation
+└── requirements.txt         # List of dependencies
 
 ---
 
