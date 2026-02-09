@@ -116,5 +116,9 @@ jupyter notebook SerieA_Predictor.ipynb
 ⚠️ **Disclaimer**
 This project is for educational and portfolio purposes only. Football is unpredictable, and this model should not be used as financial advice for betting.
 
-Author: [Besmir Qerosi]
-Connect: [(https://www.linkedin.com/in/besmir-qerosi-4511a1353/)]
+## 👤 Author
+
+**Besmir Qerosi**
+
+## Connect: 
+**Linkedin** [(https://www.linkedin.com/in/besmir-qerosi-4511a1353/)]
